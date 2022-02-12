@@ -7,8 +7,14 @@
 
 ✅ Desafio 1
 
-❔ Desafio 2
+✅ Desafio 2
 
-❔ Desafio 3
+✅ Desafio 3
 
-❔ Desafio FINAL
+✅ Desafio FINAL
+
+## Quest HTML + CSS Avançados
+
+## Quest Javascript Básico
+
+## 
