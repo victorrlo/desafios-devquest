@@ -1,0 +1,51 @@
+@media(max-width: 960px) {
+    
+    nav {
+        /* width: 100%; */
+        text-align: center;
+    }
+
+    a {
+        font-size: 40px;
+    }
+
+    .logo img {
+        width: 100%;
+        max-width: 46px;
+    }
+
+    .logo {
+        display: block;
+        width: 100%;
+        text-align: center;
+        font-size: 40px;
+        margin-bottom: 50px;
+    } 
+
+    .menu li {
+        display: inline-block;
+        margin-top: 50px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    
+    .caixa-selecao {
+        background-color: #5BC241;
+        width: 233px;
+        height: 81px;
+    }
+
+    .caixa-selecao a {
+        display: flex;
+        padding: 17px 38px 17px 41px;
+        justify-content: center; 
+    }
+
+    .botao-cadastro {
+        display: inline-block;
+    }
+
+    .botao-cadastro a{
+        font-size: 18px;
+    }
+}
