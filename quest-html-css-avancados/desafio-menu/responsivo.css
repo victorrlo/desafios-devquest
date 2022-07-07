@@ -23,10 +23,9 @@
     } 
 
     .menu li {
-        display: inline-block;
+        display: block;
         margin-top: 50px;
         margin-left: 0px;
-        text-align: center;
     }
     
     .caixa-selecao {
@@ -39,10 +38,6 @@
         display: flex;
         padding: 17px 38px 17px 41px;
         justify-content: center; 
-    }
-
-    .botao-cadastro {
-        display: inline-block;
     }
 
     .botao-cadastro a{
