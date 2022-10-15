@@ -15,6 +15,14 @@
 
 ## Quest HTML + CSS Avançados
 
+❌ Desafio 1
+
+❌ Desafio 2
+
+❌ Desafio 3
+
+❌ Desafio FINAL
+
 ## Quest Javascript Básico
 
 ## 
