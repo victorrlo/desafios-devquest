@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
+:root {
+    --text-color: hsl(193, 38%, 86%);
+    --advice-dice-color: hsl(150, 100%, 66%);
+    --advice-card-color: hsl(217, 19%, 24%);    
+    --background-color: hsl(218, 23%, 16%);
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+    color: var(--text-color);
+}
+
+.container {
+    background-image: url("./src/images/anel-prístino-imagem-de-fundo.png");
+    background-color: var(--background-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+article.cartao {
+    background-color: var(--advice-card-color);
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    
+    /* align-items: center; */
+    width: 50%;
+    max-width: 800px;
+    max-height: 400px;
+    height: 50%;
+    border-radius: 10px;
+    
+}
+
+h1.nome-runa{
+    font-size: 16px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+p.descricao-runa {
+    padding: 0 100px;
+    margin: auto;
+    text-align: center;
+}
+
+hr {
+    border-color: var(--text-color);
+    align-self: center;
+    width: 70%;
+}
+
+button {
+    width: fit-content;
+    align-self: center;
+    margin-top: auto;
+}
