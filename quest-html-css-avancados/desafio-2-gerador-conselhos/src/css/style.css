@@ -99,3 +99,31 @@ div.botao button {
         width: 300px;
     }
 }
+
+
+@media (max-width: 425px) {
+    header img{
+        width: 200px;
+    }
+
+    article.cartao {
+        width: 90%;
+    }
+
+    h1.nome-runa{
+        font-size:13px;
+    }
+
+    p.descricao-runa {
+        margin: auto;
+        /* margin: 30px 0; */
+        text-align: center;
+        width: 90%;
+    }
+
+    img.divisor {
+        width: 90%;
+    }
+    
+
+}
