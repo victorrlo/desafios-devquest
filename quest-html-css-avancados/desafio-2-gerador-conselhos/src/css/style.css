@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
 
 :root {
-    --text-color: hsl(193, 38%, 86%);
-    --advice-dice-color: hsl(150, 100%, 66%);
-    --advice-card-color: hsl(217, 19%, 24%);    
-    --background-color: hsl(218, 23%, 16%);
+    /* --text-color: hsl(193, 38%, 86%); */
+    --text-color: white;
+    /* --advice-dice-color: hsl(150, 100%, 66%); */
+    --advice-dice-color: #C9B76B;
+    /* --advice-card-color: hsl(217, 19%, 24%);     */
+    --advice-card-color: hsl(60, 12%, 11%);    
+    /* --background-color: hsl(218, 23%, 16%); */
+    --background-color: rgb(22, 22, 19);
 }
 
 body {
@@ -23,13 +27,9 @@ main.container {
 }
 
 header {
+    background-image: url(/src/video/elden-ring-animated.webm);
     display: flex;
-    flex-flow: column;
-}
-
-div.logo-jogo img {
-    margin-bottom: auto;
-
+    justify-content: center;
 }
 
 article.cartao {
@@ -47,7 +47,7 @@ article.cartao {
 
 h1.nome-runa{
     margin-top: auto;
-    font-size: 12px;
+    font-size:13px;
     color: var(--advice-dice-color);
     text-transform: uppercase;
     display: flex;
@@ -62,24 +62,37 @@ p.descricao-runa {
     width: 70%;
 }
 
-hr {
+img.divisor {
+    align-self: center;
+    width: 70%;
+    /* margin-bottom: auto; */
+    margin-bottom: 75px;
+}
+
+/* hr {
     border-color: var(--text-color);
     align-self: center;
     width: 70%;
-    /* margin: auto; */
-}
+} */
 
 div.botao {
     display: flex;
     justify-content: center;
+    position: relative;
 }
 
-button {
+div.botao button {
     /* align-self: center; */
-    background-color: rgba(0, 0, 0, 0);
-    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.1);
+    border-color: rgba(153, 107, 6, 0.1);
     border-radius: 100px;
-    margin-top: auto;
-    height: 50%;
     cursor: pointer;
+    position: absolute;
+    top: -50px
+}
+
+@media (max-width: 768px) {
+    header img{
+        width: 300px;
+    }
 }
