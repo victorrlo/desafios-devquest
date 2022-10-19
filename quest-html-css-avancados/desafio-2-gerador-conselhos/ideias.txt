@@ -1,0 +1,3 @@
+Fazer uma animação no botão das pequenas runas evoluindo para a grande e virando a Runa gerada.
+Modificar as cores para ficar mais agradável com o tema.
+Colocar o arco de Runa como divisor e não o hr.

@@ -16,9 +16,20 @@ main.container {
     background-image: url("./src/images/anel-prístino-imagem-de-fundo.png");
     background-color: var(--background-color);
     display: flex;
+    flex-flow: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
+}
+
+header {
+    display: flex;
+    flex-flow: column;
+}
+
+div.logo-jogo img {
+    margin-bottom: auto;
+
 }
 
 article.cartao {
@@ -58,13 +69,13 @@ hr {
     /* margin: auto; */
 }
 
-div {
+div.botao {
     display: flex;
     justify-content: center;
 }
 
 button {
-    align-self: center;
+    /* align-self: center; */
     background-color: rgba(0, 0, 0, 0);
     border-color: rgba(0, 0, 0, 0);
     border-radius: 100px;
