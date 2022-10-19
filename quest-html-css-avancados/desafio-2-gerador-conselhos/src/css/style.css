@@ -24,6 +24,7 @@ main.container {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    
 }
 
 header {
@@ -43,6 +44,8 @@ article.cartao {
     height: 50%;
     border-radius: 10px;
     justify-content: flex-end;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(/src/images/Elden-ring-background-page.webp);
+    background-size: cover;
 }
 
 h1.nome-runa{
@@ -83,7 +86,7 @@ div.botao {
 
 div.botao button {
     /* align-self: center; */
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.5);
     border-color: rgba(153, 107, 6, 0.1);
     border-radius: 100px;
     cursor: pointer;
