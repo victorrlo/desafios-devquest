@@ -5,9 +5,9 @@
 # Progresso
 ## <img src="src/img/23.png" alt="fight skull with sword"> Quest HTML + CSS Básicos <img src="src/img/htmlicon.png" alt="html skill icon"> <img src="src/img/cssicon.png" alt="css skill icon">
 
-✅ Desafio 1 - 
+✅ Desafio 1 - Lista de Alimentos
 
-✅ Desafio 2 - 
+✅ Desafio 2 - Imagem com link externo
 
 ✅ Desafio 3 - 
 
