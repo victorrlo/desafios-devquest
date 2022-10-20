@@ -9,9 +9,9 @@
 
 ✅ Desafio 2 - Imagem com link externo
 
-✅ Desafio 3 - 
+✅ Desafio 3 - Parágrafos com espaçamento
 
-✅ Desafio FINAL - 
+✅ Desafio FINAL - Tabela Estilizada
 
 ## Quest HTML + CSS Avançados
 
