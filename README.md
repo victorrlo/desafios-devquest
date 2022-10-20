@@ -15,7 +15,7 @@
 
 ## Quest HTML + CSS Avançados
 
-✅ Desafio 1 - 
+✅ Desafio 1 - Profile Card
 
 ✅ Desafio 2 - Gerador de Conselhos (adaptado para uma ideia minha - Gerador de Runas ELDEN RING)
 
