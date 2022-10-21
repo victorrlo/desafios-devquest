@@ -13,7 +13,7 @@
 
 ✅ Desafio FINAL - Tabela Estilizada
 
-## Quest HTML + CSS Avançados
+## Quest HTML + CSS Avançados - FLEX
 
 ✅ Desafio 1 - Profile Card
 
@@ -21,8 +21,8 @@
 
 ✅ Desafio 3 - Menu Header responsivo
 
-❌ Desafio FINAL
+✅ Desafio FINAL - Lista de Imagens estilizada com Flex
 
 ## Quest Javascript Básico
-
+❌
 ## 
