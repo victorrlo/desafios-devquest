@@ -25,7 +25,7 @@ h1 {
     align-items: center;
 }
 
-nav {
+nav.menu {
     height: 100%;
     width: 100%;
     display: flex;
@@ -34,10 +34,14 @@ nav {
     margin: 45px;
 }
 
-nav a.caixa-verde {
-    background-color: #5BC241;
+nav.menu a {
     padding: 11px 7px;
+}
+
+nav.menu a:hover {
+    background-color: #5BC241;
     color: #FFFFFF;
+    transition: 0.3s ease-in-out;
 }
 
 a, button {
