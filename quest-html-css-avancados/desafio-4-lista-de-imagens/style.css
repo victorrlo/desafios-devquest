@@ -1,0 +1,39 @@
+body {
+    font-family: 'Public Sans', sans-serif;
+}
+
+ul {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+ul li {
+    padding-left: 19px;
+}
+
+ul li:last-child {
+    padding-right: 20px;
+}
+
+li {
+    position: relative;
+}
+
+ul li p {
+    color: white;
+    padding-left: 19px;
+    position: relative;
+    bottom: 100px;
+}
+
+ul li p.titulo {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+ul li p.autor {
+    font-weight: 400;
+    font-size: 17px;
+}
