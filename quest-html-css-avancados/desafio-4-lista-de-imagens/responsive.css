@@ -1,24 +1,7 @@
 @media (max-width: 1439px) {
-    ul {
-        flex-flow: column;
-    }
-
-    li {
-        max-height: 432px;
-    }
-
-    ul li:first-child {
-        padding-top: 45px
-    }
-
-    ul li:last-child {
-        padding-bottom: 44px;
-        padding-right: 0;
-    }
-
-    ul li {
-        padding-left: 0;
-        justify-content: center;
-        align-items: center;
+    .pinturas {
+        max-width: 900px;
+        margin: 30px 0;
+        gap: 0px;
     }
 }

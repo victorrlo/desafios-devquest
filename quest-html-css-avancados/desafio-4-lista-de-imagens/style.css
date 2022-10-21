@@ -2,38 +2,44 @@ body {
     font-family: 'Public Sans', sans-serif;
 }
 
-ul {
-    height: 100vh;
-    width: 100%;
+main {
     display: flex;
+    min-height: 100vh;
+    justify-content: center;
     align-items: center;
 }
 
-ul li {
-    padding-left: 19px;
+.pinturas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
 }
 
-ul li:last-child {
-    padding-right: 20px;
-}
-
-li {
+.pintura {
+    width: 335px;
+    height: 431px;
     position: relative;
 }
 
-ul li p {
+.pintura img {
+    width: 100%;
+}
+
+.pintura .informacoes {
     color: white;
-    padding-left: 19px;
-    position: relative;
-    bottom: 100px;
+    left: 19px;
+    position: absolute;
+    bottom: 40px;
 }
 
-ul li p.titulo {
+.titulo {
     font-weight: 700;
     font-size: 30px;
+    padding-bottom: 6px;
 }
 
-ul li p.autor {
+.autor {
     font-weight: 400;
     font-size: 17px;
 }
