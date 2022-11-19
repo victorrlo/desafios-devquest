@@ -3,7 +3,7 @@
  Aqui será onde colocarei os desafios feitos durante o curso DevQuest!
 
 # Progresso
-## <img src="src/img/23.png" alt="fight skull with sword"> Quest HTML + CSS Básicos <img src="src/img/htmlicon.png" alt="html skill icon"> <img src="src/img/cssicon.png" alt="css skill icon">
+## Quest HTML + CSS Básicos
 
 ✅ Desafio 1 - Lista de Alimentos
 
@@ -21,7 +21,9 @@
 
 ✅ Desafio 3 - Menu Header responsivo
 
-✅ Desafio FINAL - Lista de Imagens estilizada com Flex
+✅ Desafio 4 - Lista de Imagens estilizada com Flex
+
+❌ Desafio FINAL - Layout YouTube com grid
 
 ## Quest Javascript Básico
 ❌
