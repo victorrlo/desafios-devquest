@@ -3,3 +3,7 @@
 ## Exemplo usado do Figma
 
 <img src="design/Screenshot_12.png"></img>
+
+## Resultado Final
+
+<img src="design/Screenshot_13.png"></img>
