@@ -1,7 +1,7 @@
 :root {
     --cor-fundo-padrao: #f7f7f7;
-    --cor-video-fundo-padrao: #c4c4c4;
-    
+    --cor-video-fundo-padrao: #000000;
+
     --tamanho-fonte-descricao: 16px;
     --tamanho-fonte-titulo-video: 18px;
 

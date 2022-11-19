@@ -5,6 +5,7 @@
     margin: 0;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    color: #000000;
 }
 
 body {
@@ -26,7 +27,7 @@ aside {
     grid-area: secao-lateral;
 }
 
-video.video-em-reproducao {
+iframe.video-em-reproducao {
     height: 217px;
     width: 543px;
     background-color: var(--cor-video-fundo-padrao);
@@ -37,6 +38,7 @@ h2.titulo-video-em-reproducao {
     font-size: var(--tamanho-fonte-titulo-video);
     font-weight: 700;
     margin-bottom: 7px;
+    margin-top: 4px;
 }
 
 p.visualizacoes-video-em-reproducao {
@@ -48,6 +50,10 @@ p.visualizacoes-video-em-reproducao {
 
 p.descricao-do-video {
     font-size: var(--tamanho-fonte-descricao, 16px);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 530px;
 }
 
 video.propaganda {
@@ -67,6 +73,9 @@ ul {
 li {
     display: flex;
     flex-direction: row;
+}
+
+li:not(:last-child) {
     padding-bottom: 16px;
 }
 
