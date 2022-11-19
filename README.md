@@ -21,7 +21,9 @@
 
 ✅ Desafio 3 - Menu Header responsivo
 
-✅ Desafio FINAL - Lista de Imagens estilizada com Flex
+✅ Desafio 4 - Lista de Imagens estilizada com Flex
+
+❌ Desafio FINAL - Layout YouTube com grid
 
 ## Quest Javascript Básico
 ❌
