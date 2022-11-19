@@ -23,7 +23,7 @@
 
 ✅ Desafio 4 - Lista de Imagens estilizada com Flex
 
-❌ Desafio FINAL - Layout YouTube com grid
+✅ Desafio FINAL - Layout YouTube com grid
 
 ## Quest Javascript Básico
 ❌
