@@ -3,7 +3,7 @@
  Aqui será onde colocarei os desafios feitos durante o curso DevQuest!
 
 # Progresso
-## <img src="src/img/23.png" alt="fight skull with sword"> Quest HTML + CSS Básicos <img src="src/img/htmlicon.png" alt="html skill icon"> <img src="src/img/cssicon.png" alt="css skill icon">
+## Quest HTML + CSS Básicos
 
 ✅ Desafio 1 - Lista de Alimentos
 
