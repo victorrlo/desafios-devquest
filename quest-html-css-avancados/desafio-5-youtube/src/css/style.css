@@ -56,7 +56,7 @@ p.descricao-do-video {
     max-width: 530px;
 }
 
-video.propaganda {
+img.propaganda {
     width: 270px;
     height: 56px;
     background-color: var(--cor-video-fundo-padrao);
